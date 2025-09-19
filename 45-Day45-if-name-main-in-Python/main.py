@@ -1,3 +1,0 @@
-import harry
-
-harry.welcome()
